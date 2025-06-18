@@ -3,7 +3,7 @@ import os, time
 import flickTools
 
 # Initialize the Google Images Search client with API key and Project CX.
-gis = GoogleImagesSearch('AIzaSyCTEh_LfhD9iwS9q_P4iPnJE1MYbB9lkCo', '158fe729f328c4f0c')
+gis = GoogleImagesSearch('', '')
 
 def clearImages(folderPath='resources/images'):
     """
